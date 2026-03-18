@@ -1,1 +1,4 @@
 new.txt
+bad_dir
+!bad_dir/good.txt
+
